@@ -2,7 +2,6 @@
 Customer Behaviour Analysis project using Python, SQL, and Power BI to uncover insights from ~3,900 transactions. Includes data cleaning, EDA, customer segmentation, and business-focused analysis. Features an interactive dashboard and actionable recommendations to improve marketing, retention, and revenue strategies.
 Customer Behaviour Analysis
 Overview
-
 This project analyzes customer purchasing behavior using Python, SQL, and Power BI to generate actionable business insights. The objective is to understand customer preferences, spending patterns, and segmentation to support data-driven decision-making.
 
 Dataset
@@ -13,6 +12,7 @@ Demographics: Age, Gender, Location, Subscription Status
 Transaction details: Product category, items purchased, purchase amount
 Behavioral data: Purchase frequency, previous purchases, discounts
 Additional attributes: Shipping type, ratings, season, size, color
+
 Methodology
 Data Preprocessing and EDA (Python)
 Cleaned and handled missing values
