@@ -95,7 +95,7 @@ FROM customer
 GROUP BY age_group
 ORDER BY total_revenue DESC;
 
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'wtaf#1234';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 FLUSH PRIVILEGES;
 
 
